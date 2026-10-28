@@ -1,0 +1,67 @@
+{
+  "schema": "MNTI_PARTIAL_TEXT_RELEASE_MANIFEST_V1",
+  "version": "v0.1.0-methods-note",
+  "release_date": "2026-10-28",
+  "repository": "mohammedmessaoudene-cmd/software-reimplementation-evidence-note",
+  "status": "PARTIAL_TEXT_NOTE",
+  "self_excluded": "RELEASE_MANIFEST.json",
+  "payload_count": 7,
+  "source_candidate_sha256": "70d178f8e09aca03be9d0a5e4d7af12deb424d5f4849ba285c623db38b0f6cda",
+  "attribution": "Professeur Messaoudene; prose prepared with AI assistance",
+  "prose_license": "CC-BY-4.0",
+  "prose_license_scope": "Original prose in the seven selected Markdown files, to the extent of rights held by Professeur Messaoudene; third-party and private materials excluded",
+  "technical_state": {
+    "I5": "CLOSED_LOCAL_WITH_EXPLICIT_HOLDS",
+    "I19": "HOLD/STOP_AT_HOLD",
+    "J3": "HISTORICAL_PARTIAL",
+    "J4": "HISTORICAL_PARTIAL",
+    "J5": "NOT_ACQUIRED",
+    "BOUNDED_PASS": false,
+    "T09_GUEST": "NOT_RUN"
+  },
+  "scope": {
+    "text_only": true,
+    "code": false,
+    "binaries": false,
+    "raw_logs": false,
+    "correspondence": false,
+    "independent_reproduction": false
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4410,
+      "sha256": "21a53127848610138cfddb8ae9f7344ca3b0b6b20e19f947b62d6ec563d87601"
+    },
+    {
+      "path": "NOTE_FR.md",
+      "bytes": 7702,
+      "sha256": "c3b6dfd24e4f01c2b1c00e56ddf8bae980fbbf6332d4da40c7e270a056f1fab2"
+    },
+    {
+      "path": "NOTE_EN.md",
+      "bytes": 6710,
+      "sha256": "c90537cbde3eaac09184c295f272cd447ce4d6736b02f704e780b940331c0782"
+    },
+    {
+      "path": "CLAIMS_AND_EVIDENCE.md",
+      "bytes": 5854,
+      "sha256": "e3b02d57726ae8e9fc3b618c33032e09a06e42c72f6af84f5a81add9ff30e6a4"
+    },
+    {
+      "path": "METHOD_AND_LIMITS.md",
+      "bytes": 5369,
+      "sha256": "776974dee2fe637ae2cbd7862156b4dddb41d3c8041ae41c1f42692ee2ac25ab"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 3871,
+      "sha256": "a17a9a6e5ffba6544ad106c089cb3099a2a037658c265a6eaadabfac8c992bcc"
+    },
+    {
+      "path": "RIGHTS_AND_RELEASE_DECISIONS.md",
+      "bytes": 2635,
+      "sha256": "28e61ed12f9eb6321d295082608696c33f9f3f92ed218b3385b778fa951a76cf"
+    }
+  ]
+}
